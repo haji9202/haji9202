@@ -2,7 +2,8 @@
 I'm developer haji!
 
 ### Donate 💕
-<img src="{https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white}"/>
+![image]({img})
 <!--
 **haji9202/haji9202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
