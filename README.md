@@ -5,8 +5,8 @@
   I'm developer haji9202!
   ---
   
-  ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
-  ### I used ✨<br>
+  ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)<br>
+  ### I used ✨
   
   ---  
  
