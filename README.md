@@ -1,8 +1,11 @@
 ### Hi there 👋
 I'm developer haji9202!
 
+###Contact
+
+
 ### Donate 💕
-[![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white=https://www.patreon.com/haji9202/)](https://www.patreon.com/haji9202/)
+[![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/haji9202/)
 <!--
 **haji9202/haji9202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
