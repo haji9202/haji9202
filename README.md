@@ -6,7 +6,7 @@
   ---
   
   ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
-  ### I used
+  ### I used ✨
   
   ---  
  
@@ -20,7 +20,6 @@
   ---
   
   ### Donate 💕
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" align="right">(https://www.patreon.com/haji9202/)
-  <!--   [![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/haji9202/) -->
+    [![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/haji9202/)
 
 <div>
