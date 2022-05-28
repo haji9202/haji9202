@@ -2,7 +2,7 @@
 I'm developer haji9202!
 
 ### Contact
-![Badge](https://img.shields.io/badge/하지#9202-5865F2?style=for-the-badge&logo=하지#9202&logoColor=white)
+<img alt="Discord" src ="https://img.shields.io/badge/Discord-3776AB.svg?&style=for-the-badge&logo=하지#9202&logoColor=white"/>
 
 ### Donate 💕
 [![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/haji9202/)
