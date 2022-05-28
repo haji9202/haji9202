@@ -2,7 +2,7 @@
 I'm developer haji9202!
 
 ### Contact
-![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820)
+![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
 
 ### Donate 💕
 [![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/haji9202/)
