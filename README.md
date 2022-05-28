@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm developer haji9202!
 
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haji9202)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
 
