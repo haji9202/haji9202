@@ -6,6 +6,8 @@
   
   ---
   
+  I am a developer interested in many things
+  
   ### Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji9202" align="left">
   
