@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=haji9202)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=haji9202&count_private=true"/>
   
  
   
