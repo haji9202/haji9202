@@ -4,11 +4,11 @@
   ### Hi there 👋
   I'm developer haji9202!
   ---
-  hahaha
   
-  hahahah
   
-  hahahah
+  ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
+  
+  
 
   ---  
   
@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" align="right">
   <img src"https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" align="right">
 
-  ### Contact
-  ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
+
+  
 
   ### Donate 💕
   [![Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/haji9202/)
