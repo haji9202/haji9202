@@ -1,15 +1,8 @@
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=haji9202&count_private=true"/>
   
- 
-  
-  
-  
-  
-  
-  
-  
   ### Hi there 👋
+  ---
   I'm developer haji9202!
 
   ### Languages
