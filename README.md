@@ -6,7 +6,7 @@
   ---
   
   ![Discord](https://dcbadge.vercel.app/api/shield/687303353650380820?compact=true)
-  ### I used ✨
+  ### I used ✨<br>
   
   ---  
  
