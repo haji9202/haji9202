@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm developer haji9202!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haji9202)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haji9202)](https://github.com/anuraghazra/github-readme-stats)
 
