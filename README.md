@@ -6,7 +6,7 @@
 `22:22:02.123 : main : README.md : INFO : id=haji9202`  
 `22:22:03.003 : main : README.md : INFO : region=southKorea`  
 `22:22:04.004 : main : README.md : INFO : email=hayun9202@gmail.com`  
-`22:22:06.123 : main : README.md : WARN :  Exception in thread "main" java.lang.NullPointerException: GithubProfile is null.
+`22:22:06.123 : main : README.md : WARN : Exception in thread "main" java.lang.NullPointerException: GithubProfile is null.
 	at MainKt.main(Main.kt:123)
 	at MainKt.main(Main.kt)`  
  `22:22:06.321 : main : README.md : DEBUG : profile is null, Reload GithubProfile object`
@@ -66,7 +66,7 @@ class TechAndLanguage {
 	at Everything.main(Everything.kt:5)
 	at Everything.main(Everything.kt)`  
 
- `22:22:06.123 : main : README.md : WARN : Exception in thread "main" Barcode.NoBrainInUseException: hey Barcode try Kotlin.
+ `22:22:06.123 : main : README.md : WARN : Exception in thread "main" Barcode.NoBrainInUseException: hey Barcode use Kotlin.
 	at Barcode.main(Barcode.kt:null)
 	at Barcode.main(Barcode.kt)`  
  
