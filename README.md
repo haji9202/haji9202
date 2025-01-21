@@ -53,6 +53,7 @@ class TechAndLanguage {
         osList.add("Windows")
         osList.add("macOS")
         osList.add("Ubuntu")
+        osList.add("Arch")
 
         editorList.add("IntelliJ")
         editorList.add("Rider")
